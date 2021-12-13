@@ -7,3 +7,17 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 - per ogni appello d'esame a cui lo studente ha partecipato, è necessario memorizzare il voto ottenuto, anche se non sufficiente -->
 
 # Boolean College
+
+## Dipartimento
+
+## Corso di laurea
+
+## Corso singolo
+
+## Insegnante
+
+## Appello d'esame
+
+## Studente
+
+## Voto dell'esame
